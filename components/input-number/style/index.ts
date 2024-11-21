@@ -250,7 +250,7 @@ const genInputNumberStyles: GenerateStyle<InputNumberToken> = (token: InputNumbe
           position: 'absolute',
           insetBlockStart: 0,
           insetInlineEnd: 0,
-          width: 0,
+          width: handleOpacity === 1 ? token.handleWidth : 0,
           opacity: handleOpacity,
           height: '100%',
           borderStartStartRadius: 0,

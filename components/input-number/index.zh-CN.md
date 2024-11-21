@@ -31,6 +31,7 @@ demo:
 <code src="./demo/presuffix.tsx">前缀/后缀</code>
 <code src="./demo/status.tsx">自定义状态</code>
 <code src="./demo/focus.tsx" version="5.22.0">聚焦</code>
+<code src="./demo/handle-visible.tsx">操作按钮可见性</code>
 <code src="./demo/controls.tsx" debug>图标按钮</code>
 <code src="./demo/render-panel.tsx" debug>_InternalPanelDoNotUseOrYouWillBeFired</code>
 <code src="./demo/debug-token.tsx" debug>覆盖组件样式</code>
